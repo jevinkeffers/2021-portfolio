@@ -93,8 +93,7 @@ ul {
     color: #f8f8ff
 }
 
-.button__link a:visited {
-    text-decoration: none;
+.button a:visited {
     color: #f8f8ff;
 }
 
