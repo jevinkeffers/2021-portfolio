@@ -93,11 +93,10 @@ ul {
     color: #f8f8ff
 }
 
-.about__section a:visited {
+.button__link a:visited {
     text-decoration: none;
     color: #f8f8ff;
 }
-
 
 .about__text {
     padding-right: 20px;
