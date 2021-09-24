@@ -72,9 +72,9 @@ ul {
 }
 
 .about__content {
-    display: grid;
+    /* display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 700px;
+    grid-template-rows: 700px; */
 }
 
 .about__content button {
